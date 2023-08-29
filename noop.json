@@ -1,0 +1,3 @@
+{
+  "noop": "${ \n  function($obj) {\n    $obj\n  }\n}\n"
+}
